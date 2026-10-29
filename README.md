@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Voxel+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 MagicaVoxel Free Installer** — MagicaVoxel is a free, lightweight voxel art editor and interactive path-tracing renderer. Works without internet access, no account required. Full offline installation.
+**💻 MagicaVoxel Free Installer** — MagicaVoxel is a free, lightweight voxel editor and renderer for Windows and macOS. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About MagicaVoxel
 
-MagicaVoxel is a free, lightweight voxel art editor and interactive path-tracing renderer. It is the go-to tool for creating voxel art, 3D pixel art, and low-poly scenes with a built-in renderer that produces stunning path-traced renders.
+MagicaVoxel is a free, lightweight voxel editor and renderer for Windows and macOS. Create detailed voxel models and scenes with a simple palette-based editor and render them with path-tracing or voxel ray-casting for beautiful stylized renders. Popular among indie game developers and voxel artists, MagicaVoxel has become the standard free tool for voxel art creation.
 
 ---
 
 ## ❌ Problem: MagicaVoxel is hard to access
 
-- **Limited Model Size** — Maximum scene size constraints limit large-scale projects
-- **Single Developer** — Development pace depends entirely on one creator
-- **Export Limitations** — Some mesh export formats require post-processing in other tools
-- **No Animation** — Cannot create animated voxel sequences within the editor
+- **Scene Size Limits** — Large voxel scenes can stress memory and rendering performance
+- **Animation** — Animation support basic compared to dedicated animation tools
+- **Export Formats** — Some engine import workflows require format conversion
+- **Render Speed** — Path-traced rendering of complex scenes can be slow
 
 ---
 
@@ -121,7 +121,7 @@ MagicaVoxel is a free, lightweight voxel art editor and interactive path-tracing
 
 ---
 
-**MagicaVoxel Free Installer** — MagicaVoxel is a free, lightweight voxel art editor and interactive path-tracing renderer. Install without internet connection today!
+**MagicaVoxel Free Installer** — MagicaVoxel is a free, lightweight voxel editor and renderer for Windows and macOS. Install without internet connection today!
 
 <div align="center">
 
